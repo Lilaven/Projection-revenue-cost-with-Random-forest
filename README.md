@@ -13,7 +13,9 @@ Second table : services, cost_to_run_services, max_increment_for_services_in_nex
 Level	Range	Cost per app
 
 Level 1:	<= 100 :200 + k1
+
 Level 2:	100 - <= 500:	160 + k2
+
 Level 3:	>500:	100 + k3
 
 k1, k2, k3 is random value from 0 to 10.
